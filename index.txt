@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Yifeng Sun
+Yifeng Sun
 Web developer
 
 Show Contacts
